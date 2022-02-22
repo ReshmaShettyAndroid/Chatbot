@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidWorkspace/ChatBot/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/AndroidWorkspace/ChatBot/app/src/main/res/drawable/add_foreground.xml" value="0.1" />
+        <entry key="..\:/AndroidWorkspace/ChatBot/app/src/main/res/drawable/btn_pressed.xml" value="0.1555" />
+        <entry key="..\:/AndroidWorkspace/ChatBot/app/src/main/res/drawable/btn_selector.xml" value="0.1555" />
+        <entry key="..\:/AndroidWorkspace/ChatBot/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/AndroidWorkspace/ChatBot/app/src/main/res/drawable/receiver_message_bg.xml" value="0.1115" />
+        <entry key="..\:/AndroidWorkspace/ChatBot/app/src/main/res/drawable/round_rect_blue_stroke.xml" value="0.1555" />
+        <entry key="..\:/AndroidWorkspace/ChatBot/app/src/main/res/drawable/round_white_bg.xml" value="0.1115" />
+        <entry key="..\:/AndroidWorkspace/ChatBot/app/src/main/res/drawable/rount_rect_teal_bg.xml" value="0.1555" />
+        <entry key="..\:/AndroidWorkspace/ChatBot/app/src/main/res/drawable/send_arrow_foreground.xml" value="0.1" />
+        <entry key="..\:/AndroidWorkspace/ChatBot/app/src/main/res/drawable/sent_message_bg.xml" value="0.1115" />
+        <entry key="..\:/AndroidWorkspace/ChatBot/app/src/main/res/layout/activity_main.xml" value="0.11282051282051282" />
+        <entry key="..\:/AndroidWorkspace/ChatBot/app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="..\:/AndroidWorkspace/ChatBot/app/src/main/res/layout/dialog_add_bot.xml" value="0.14130434782608695" />
+        <entry key="..\:/AndroidWorkspace/ChatBot/app/src/main/res/layout/fragment_bot.xml" value="0.14130434782608695" />
+        <entry key="..\:/AndroidWorkspace/ChatBot/app/src/main/res/layout/fragment_chat.xml" value="0.14130434782608695" />
+        <entry key="..\:/AndroidWorkspace/ChatBot/app/src/main/res/layout/fragment_first.xml" value="0.14130434782608695" />
+        <entry key="..\:/AndroidWorkspace/ChatBot/app/src/main/res/layout/row_addbot.xml" value="0.1" />
+        <entry key="..\:/AndroidWorkspace/ChatBot/app/src/main/res/layout/row_chat_history.xml" value="0.14130434782608695" />
+        <entry key="..\:/AndroidWorkspace/ChatBot/app/src/main/res/menu/menu_main.xml" value="0.1" />
+        <entry key="..\:/AndroidWorkspace/ChatBot/app/src/main/res/mipmap-anydpi-v26/add.xml" value="0.1" />
+        <entry key="..\:/AndroidWorkspace/ChatBot/app/src/main/res/mipmap-anydpi-v26/add_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

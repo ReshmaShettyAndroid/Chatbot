@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ChatBot</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="bot_fragment_label">Bot</string>
+    <string name="chat_fragment_label">Chat Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="submit_txt">Submit</string>
+    <string name="start_typing_to_chat_with_bot">Start typing to chat with bot</string>
+    <string name="enter_your_message">Enter your Message</string>
+    <string name="send_txt">Send</string>
+    <string name="user_txt">User</string>
+    <string name="bot_txt">Bot</string>
+    <string name="please_enter_mssage_txt">Please enter Message</string>
+    <string name="hihi_txt">Hi Hi</string>
+    <string name="bot_exist_txt">Bot Already Exist</string>
+    <string name="add_bot_txt">Add Bot</string>
+    <string name="enter_bot_name_txt">Please enter Bot name</string>
+</resources>
